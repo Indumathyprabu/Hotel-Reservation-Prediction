@@ -1,4 +1,4 @@
-# Hotel Reservation Cancellation Prediction 🏨✖️
+# Hotel Reservation Cancellation Prediction 🏨
 
 **MLOps Pipeline to Predict Booking Cancellations**  
 *Optimizing Revenue Management with Machine Learning*
